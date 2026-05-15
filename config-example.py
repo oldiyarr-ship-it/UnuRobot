@@ -8,8 +8,8 @@ minimum_players = 2
 
 sudoers = [8750405608]
 
-API_ID = ""
-API_HASH = ""
+API_ID = "21194358"
+API_HASH = "9623f07eca023e4e3c561c966513a642"
 
 # --- Telegram config ---
 
